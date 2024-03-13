@@ -1,8 +1,8 @@
 ! name: Tech blogszzz><
 ! description: Rerank zzz><results to boost content on tech blogs. List of tech blogs drawn from several sources (blogsurf.io, refined.blog, et al), and not vetted or endorsed by Brave.
 ! public: true
-! author: Goggles 101zzz><
-! avatar: #9244e0zzz><
+! author: Goggles 101
+! avatar: #9244e0
 
 $discard
 $downrank,site=z.com
